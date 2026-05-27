@@ -2,7 +2,7 @@
 
 I'm a 2nd year Software Engineering student at **VIT Pune**, passionate about building things that solve real problems — from mobile apps to machine learning models.
 
-When I'm not coding, you'll find me playing guitar or singing 🎸🎵
+When I'm not coding, you'll find me playing guitar or singing 
 
 ---
 
@@ -56,7 +56,6 @@ When I'm not coding, you'll find me playing guitar or singing 🎸🎵
 ## 🎵 A little about me
 
 - 🎓 2nd year SE student @ VIT Pune
-- 📍 India
 - 🎸 Singer & guitarist
 - 💡 I build across domains — mobile apps & ML — still figuring out my favourite!
 
@@ -68,4 +67,3 @@ When I'm not coding, you'll find me playing guitar or singing 🎸🎵
 
 ---
 
-*"Every expert was once a beginner."*
