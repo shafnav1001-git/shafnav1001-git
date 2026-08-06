@@ -55,7 +55,7 @@ When I'm not coding, you'll find me playing guitar or singing
 
 ## 🎵 A little about me
 
-- 🎓 2nd year SE student @ VIT Pune
+- 🎓 3rd year SE student @ VIT Pune
 - 🎸 Singer & guitarist
 - 💡 I build across domains — mobile apps & ML — still figuring out my favourite!
 
