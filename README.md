@@ -1,6 +1,6 @@
 # Hi, I'm Naveera 👋
 
-I'm a 2nd year Software Engineering student at **VIT Pune**, passionate about building things that solve real problems — from mobile apps to machine learning models.
+I'm a 3rd year Software Engineering student at **VIT Pune**, passionate about building things that solve real problems — from mobile apps to machine learning models.
 
 When I'm not coding, you'll find me playing guitar or singing 
 
